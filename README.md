@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/garden-io/default-backend.svg?style=svg)](https://circleci.com/gh/garden-io/default-backend)
+[![CircleCI](https://circleci.com/gh/garden-io/garden-default-backend.svg?style=svg)](https://circleci.com/gh/garden-io/default-backend)
 
 # Default backend image for garden projects
 
