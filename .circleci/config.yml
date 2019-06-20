@@ -65,6 +65,7 @@ workflows:
             branches:
               only: master
       - publish-latest:
+          context: docker
           requires:
             - build
           filters:
