@@ -79,6 +79,7 @@ workflows:
             branches:
               ignore: /.*/
       - publish-tag:
+          context: docker
           requires:
             - build
           filters:
